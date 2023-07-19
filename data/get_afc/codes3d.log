@@ -1,0 +1,33 @@
+29/03/2023 10:51:43
+SETTINGS
+Run mode:	SNP
+FDR correction on:	Tissue
+FDR threshold:	0.05
+MAF threshold:	0.1
+Effect size:	allelic fold change (aFC)
+Using Hi-C datasets
+
+Hi-C libraries:	Dorsolateral_prefrontal_cortex_cells_Schmitt2016
+
+eQTL tissues:	Brain_Cortex
+
+--snp-input:	/mnt/projects/users/sgok603/parkinson_comorbidities/analysis/get_afc/mr_strong_snps.txt
+
+
+Processing SNP input...
+  * 18 out of 18 SNPs passed parsing criteria.
+  Time elasped: 0.00 mins
+Finding chromatin interactions in...
+  Time elasped: 0.04 mins.
+Identifying genes interacting with SNPs in...
+  * Filtering gene interactions...
+  Time elasped: 0.04 mins.
+Identifying eQTLs...
+  * eQTLs mapped at MAF >= 0.1 and pval threshold <=1.
+Writing final output...
+  * Computing Hi-C data...
+  * Collecting gene expression rates...
+  Time elasped: 0.05 mins.
+Done.
+Total time elasped: 10.12 mins.
+29/03/2023 11:01:50
