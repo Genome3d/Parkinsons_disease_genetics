@@ -1,0 +1,514 @@
+term	ui	name	source
+G21	230292008	Secondary parkinsonism	SNOMEDCT_US
+G21	50364008	Secondary parkinsonism	SNOMEDCT_US
+G21	265377002	Symptomatic parkinsonism	SNOMEDCT_US
+G21	192830002	[X]Secondary parkinsonism, unspecified	SNOMEDCT_US
+G21	194477000	[X]Secondary parkinsonism, unspecified	SNOMEDCT_US
+G21	32798002	Parkinsonism	SNOMEDCT_US
+T83	213066004	Unspecified complication of genitourinary prosthetic device,implant and graft	SNOMEDCT_US
+F02	192173009	[X]Dementia in other diseases classified elsewhere	SNOMEDCT_US
+L89	28103007	Decubitus ulcer	SNOMEDCT_US
+L89	399912005	Pressure ulcer	SNOMEDCT_US
+L89	420226006	Pressure ulcer	SNOMEDCT_US
+L89	156424003	Decubitus ulcer	SNOMEDCT_US
+L89	142668003	Decubitus ulcer	SNOMEDCT_US
+L89	201248003	(Ulcer: [decubitus - pressure] or [plaster]) or (sore: [bed] or [pressure])	SNOMEDCT_US
+L89	165258002	Decubitus ulcer	SNOMEDCT_US
+L89	400192002	Decubitus ulcer	SNOMEDCT_US
+L89	418172001	Decubitus ulcer	SNOMEDCT_US
+L89	90144002	Decubitus ulcer (specify)	SNOMEDCT_US
+S88	735859000	Traumatic amputation of lower leg	SNOMEDCT_US
+M46	202651004	Other inflammatory spondylopathies	SNOMEDCT_US
+M46	202653001	Other inflammatory spondylopathies NOS	SNOMEDCT_US
+Y75	223243005	[X]Neurological devices associated with adverse incidents	SNOMEDCT_US
+F81	192570004	[X]Specific developmental disorders of scholastic skills	SNOMEDCT_US
+M87	240196003	Bone necrosis	SNOMEDCT_US
+M87	34686004	Aseptic necrosis of bone	SNOMEDCT_US
+M87	398199007	Aseptic necrosis of bone	SNOMEDCT_US
+T69	212935004	Other reduced temperature effects	SNOMEDCT_US
+R04	207586001	[X]Haemorrhage from respiratory passages, unspecified	SNOMEDCT_US
+Z73	288521000119101	Problem related to life management difficulty	SNOMEDCT_US
+Z74	316246007	[V]Problems related to care-provider dependency	SNOMEDCT_US
+M88	2089002	Osteitis deformans	SNOMEDCT_US
+M88	156812003	Paget's disease of bone	SNOMEDCT_US
+M88	156811005	Paget's disease of bone	SNOMEDCT_US
+M88	203354006	Paget's disease NOS	SNOMEDCT_US
+M88	203353000	Paget's disease OS	SNOMEDCT_US
+R49	47004009	Difficulty speaking	SNOMEDCT_US
+R49	38160000	Abnormal voice	SNOMEDCT_US
+R49	16617009	Dysphonia	SNOMEDCT_US
+R49	158306007	[D]Voice disturbance	SNOMEDCT_US
+R49	206968000	[D]Voice disturbance	SNOMEDCT_US
+R49	206969008	[D]Voice disturbance, unspecified	SNOMEDCT_US
+S72	157232000	Fracture of femur	SNOMEDCT_US
+S72	71620000	Fracture of femur	SNOMEDCT_US
+S72	157236002	Fracture of femur, NOS	SNOMEDCT_US
+S72	208595006	Fracture of femur, NOS	SNOMEDCT_US
+S72	208570005	(Closed fracture of femur, unspecified part) or (thigh fracture NOS) or (upper leg fracture NOS)	SNOMEDCT_US
+S72	263224006	Upper leg fracture NOS	SNOMEDCT_US
+M84	240194000	Disorder of continuity of bone	SNOMEDCT_US
+V63	219981000	[X]Occupant of heavy transport vehicle injured in collision with car, pick-up truck or van	SNOMEDCT_US
+H50	194113003	Other squint NOS	SNOMEDCT_US
+H10	193857008	Eye infection &/or conjunctivitis (& [acute])	SNOMEDCT_US
+H10	193858003	Conjunctivitis &/or unspecified acute conjunctivitis	SNOMEDCT_US
+H10	9826008	Conjunctivitis	SNOMEDCT_US
+H10	241759005	Pink eye disease	SNOMEDCT_US
+H10	17482009	Mucopurulent conjunctivitis	SNOMEDCT_US
+H10	193875009	Unspecified conjunctivitis	SNOMEDCT_US
+F60	192484007	[X]Specific personality disorders	SNOMEDCT_US
+N48	198040006	Other penile disorders NOS	SNOMEDCT_US
+N48	198034004	Other penile disorders	SNOMEDCT_US
+S01	269352007	Open wound of head (& [face])	SNOMEDCT_US
+S01	210274007	(Open wound: [head, neck and trunk] or [head] or [trunk]) or (laceration of head, neck and trunk)	SNOMEDCT_US
+S01	157363004	Open wound of head (& [face])	SNOMEDCT_US
+S01	38354005	Open wound of head	SNOMEDCT_US
+S01	157373002	Open wound of head NOS	SNOMEDCT_US
+S01	210382005	Open wound of head NOS	SNOMEDCT_US
+Y73	223231009	[X]Gastroenterology and urology devices associated with adverse incidents	SNOMEDCT_US
+S79	213542003	[X]Other specified injuries of hip and thigh	SNOMEDCT_US
+R15	70026004	Incontinent of feces - finding	SNOMEDCT_US
+R15	142629005	Incontinence of feces	SNOMEDCT_US
+R15	165229000	Incontinence of feces	SNOMEDCT_US
+R15	162091006	Incontinent of feces (& symptom)	SNOMEDCT_US
+R15	72042002	Incontinence of feces	SNOMEDCT_US
+R15	158446000	[D]Incontinence of faeces	SNOMEDCT_US
+R15	207139008	[D]Incontinence of faeces	SNOMEDCT_US
+R15	158449007	[D]Incontinence of faeces NOS	SNOMEDCT_US
+R15	207142002	[D]Incontinence of faeces NOS	SNOMEDCT_US
+R15	139367004	Incontinent of feces (& symptom)	SNOMEDCT_US
+E11	44054006	Type 2 diabetes mellitus	SNOMEDCT_US
+E11	267468009	Diabetes mellitus: [adult onset] or [noninsulin dependent]	SNOMEDCT_US
+E11	190323008	Diabetes mellitus: [adult onset, with no mention of complication] or [maturity onset] or [non-insulin dependent]	SNOMEDCT_US
+E11	190384004	Type II diabetes mellitus	SNOMEDCT_US
+E11	154672006	Diabetes mellitus: [adult onset] or [noninsulin dependent]	SNOMEDCT_US
+S06	282604004	Intracranial injury	SNOMEDCT_US
+S06	262518007	Intracranial injury	SNOMEDCT_US
+S06	269338005	(Intracranial injury) or (brain injury) or (cerebral trauma [& hemorrhage due to]) or (head injury - no #)	SNOMEDCT_US
+S06	157320002	(Intracranial injury) or (brain injury) or (cerebral trauma [& hemorrhage due to]) or (head injury - no #)	SNOMEDCT_US
+S06	127296001	Intracranial injury	SNOMEDCT_US
+S06	210044007	Intracranial injury NOS	SNOMEDCT_US
+S06	269149007	Intracranial injury NOS	SNOMEDCT_US
+S06	210015005	Injury: [head] or [intracranial NOS] or [brain NOS] or [head NOS]	SNOMEDCT_US
+S06	213407000	[X]Intracranial injury, unspecified	SNOMEDCT_US
+C70	109915008	Primary malignant neoplasm of meninges	SNOMEDCT_US
+C70	190136001	[X]Malignant neoplasm of meninges, unspecified	SNOMEDCT_US
+C70	188332006	[X]Malignant neoplasm of meninges, unspecified	SNOMEDCT_US
+C70	363497007	Malignant tumor of meninges	SNOMEDCT_US
+C70	414647009	Malignant meningeal neoplasm	SNOMEDCT_US
+E77	190947007	Disorder of glycoprotein metabolism	SNOMEDCT_US
+E77	238045003	Disorder of glycoprotein metabolism	SNOMEDCT_US
+E77	190768002	[X]Disorder of glycoprotein metabolism, unspecified	SNOMEDCT_US
+E77	191119000	[X]Disorder of glycoprotein metabolism, unspecified	SNOMEDCT_US
+X11	221425004	[X]Contact with hot tap-water, occurrence at unspecified place	SNOMEDCT_US
+X11	221415009	[X]Contact with hot tap-water	SNOMEDCT_US
+I47	12026006	Paroxysmal tachycardia	SNOMEDCT_US
+I47	195079004	Paroxysmal tachycardia NOS	SNOMEDCT_US
+I47	195078007	Bouveret-Hoffmann syndrome	SNOMEDCT_US
+I47	195077002	Essential paroxysmal tachycardia	SNOMEDCT_US
+I47	195076006	Paroxysmal tachycardia unspecified	SNOMEDCT_US
+S51	157398001	Open wound of forearm	SNOMEDCT_US
+S51	125649002	Open wound of forearm	SNOMEDCT_US
+R36	139434002	Urethral discharge	SNOMEDCT_US
+R36	9957009	Urethral discharge	SNOMEDCT_US
+R36	139435001	Urethral discharge NOS	SNOMEDCT_US
+R36	162155002	Urethral discharge NOS	SNOMEDCT_US
+R36	271849008	Urethrorrhea	SNOMEDCT_US
+R36	207192001	[D]Urethral discharge	SNOMEDCT_US
+R36	158487004	[D]Urethral discharge	SNOMEDCT_US
+R36	158490005	[D]Urethral discharge NOS	SNOMEDCT_US
+R36	207196003	[D]Urethral discharge NOS	SNOMEDCT_US
+R36	207194000	[D]Urethrorrhoea	SNOMEDCT_US
+R36	158489001	[D]Urethrorrhoea	SNOMEDCT_US
+R36	300468003	Finding of urethral discharge	SNOMEDCT_US
+B35	154394006	(Dermatophytosis &/or tinea &/or ringworm) or (fungal infections) or (mycoses)	SNOMEDCT_US
+B35	266214005	(Dermatophytosis &/or tinea &/or ringworm) or (fungal infections) or (mycoses)	SNOMEDCT_US
+B35	47382004	Dermatophytosis	SNOMEDCT_US
+B35	186998006	Dermatophytosis NOS	SNOMEDCT_US
+B35	187474000	[X]Dermatophytosis, unspecified	SNOMEDCT_US
+B35	186984003	(Dermatophytosis &/or tinea &/or ringworm) or (skin fungal infection)	SNOMEDCT_US
+S49	212422002	Other shoulder and upper arm injury NOS	SNOMEDCT_US
+S49	212416006	Other shoulder and upper arm injuries	SNOMEDCT_US
+R82	207645001	[X]Other and unspecified abnormal findings in urine	SNOMEDCT_US
+R82	274698003	[X]Other and unspecified abnormal findings in urine	SNOMEDCT_US
+L74	88232005	Disorder of sweat gland	SNOMEDCT_US
+L74	156413000	Disorder of sweat gland	SNOMEDCT_US
+L74	201209003	Sweat gland disorder NOS	SNOMEDCT_US
+H51	194129006	(Conjugate gaze) or (convergence disorders) or (other disorders of binocular eye movement)	SNOMEDCT_US
+H51	267657000	Other disorders of binocular eye movements	SNOMEDCT_US
+H51	194136007	Other disorder of binocular eye movement NOS	SNOMEDCT_US
+R23	207594008	[X]Other and unspecified skin changes	SNOMEDCT_US
+H04	267740009	(Lacrimal disorders NOS) or (epiphora)	SNOMEDCT_US
+H04	155185001	(Lacrimal disorders NOS) or (epiphora)	SNOMEDCT_US
+H04	155181005	Disorder of lacrimal system	SNOMEDCT_US
+H04	31053003	Disorder of lacrimal system	SNOMEDCT_US
+H04	194003009	Lacrimal system disorder NOS	SNOMEDCT_US
+T17	157554002	Foreign body in respiratory tract	SNOMEDCT_US
+T17	262599003	Foreign body in respiratory tract	SNOMEDCT_US
+G30	73768007	Cerebral degeneration	SNOMEDCT_US
+G30	267688001	Cerebral degenerations NOS &/or Alzheimer's disease &/or Pick's disease &/or Reye's syndrome	SNOMEDCT_US
+G30	154998003	Cerebral degenerations NOS &/or Alzheimer's disease &/or Pick's disease &/or Reye's syndrome	SNOMEDCT_US
+G30	26929004	Alzheimer's disease	SNOMEDCT_US
+N39	197952004	Other urinary tract disorders NOS	SNOMEDCT_US
+N39	197947009	Other urinary tract disorders	SNOMEDCT_US
+N39	197759001	Other urinary system diseases	SNOMEDCT_US
+N39	197956001	Other urinary system diseases NOS	SNOMEDCT_US
+N39	198535005	[X]Other diseases of urinary system	SNOMEDCT_US
+N42	197972009	Other disorders of prostate	SNOMEDCT_US
+N42	197978008	Other prostate disorders NOS	SNOMEDCT_US
+S76	212467009	Injury of muscle and tendon at hip and thigh level	SNOMEDCT_US
+Z60	288531000119103	Problem related to social environment	SNOMEDCT_US
+Z60	316189004	[V]Problems related to social environment	SNOMEDCT_US
+H01	193923001	Other eyelid inflammation	SNOMEDCT_US
+R64	28928000	Cachexia	SNOMEDCT_US
+R64	238108007	Cachexia	SNOMEDCT_US
+R64	285384003	General health deterioration	SNOMEDCT_US
+R64	207558009	[D]Cachexia	SNOMEDCT_US
+R64	158737005	[D]Cachexia	SNOMEDCT_US
+R64	207560006	[D]Cachexia NOS	SNOMEDCT_US
+G47	39898005	Sleep disorder	SNOMEDCT_US
+G47	268775007	Sleep disorders (& [insomnia] or [nightmares] or [sleepwalking (& somnambulism)])	SNOMEDCT_US
+G47	154927001	Sleep disorders (& [insomnia] or [nightmares] or [sleepwalking (& somnambulism)])	SNOMEDCT_US
+G47	194436004	Sleep-wake disorder	SNOMEDCT_US
+G47	206757006	[D]Sleep dysfunction NOS	SNOMEDCT_US
+R39	207198002	[D]Other urinary system symptom	SNOMEDCT_US
+S32	207986006	Fracture of lumbar spine and/or pelvis	SNOMEDCT_US
+E43	190598006	[X]Unspecified severe protein-energy malnutrition	SNOMEDCT_US
+E43	191078000	[X]Unspecified severe protein-energy malnutrition	SNOMEDCT_US
+N13	198510004	[X]Obstructive and reflux uropathy, unspecified	SNOMEDCT_US
+N13	197946000	[X]Obstructive and reflux uropathy, unspecified	SNOMEDCT_US
+S30	213456004	[X]Superficial injury of abdomen, lower back and pelvis, part unspecified	SNOMEDCT_US
+I95	155487000	Hypotension	SNOMEDCT_US
+I95	45007003	Low blood pressure	SNOMEDCT_US
+I95	195508000	Hypotension NOS	SNOMEDCT_US
+I95	155490006	Hypotension NOS	SNOMEDCT_US
+I95	271646004	Low blood pressure	SNOMEDCT_US
+H54	193698004	Impaired vision (& [blindness &/or low] or [partial sight])	SNOMEDCT_US
+H54	155146008	Impaired vision (& [blindness &/or low] or [partial sight])	SNOMEDCT_US
+H54	155150001	Blindness or low vision NOS	SNOMEDCT_US
+H54	267729001	Blindness or low vision NOS	SNOMEDCT_US
+V55	219899007	[X]Occupant of pick-up truck or van injured in collision with railway train or railway vehicle	SNOMEDCT_US
+Z43	316305004	[V]Unspecified attention to artificial opening	SNOMEDCT_US
+Z43	316293000	[V]Attention to artificial opening	SNOMEDCT_US
+S27	210082004	Other and unspecified intrathoracic organ injury	SNOMEDCT_US
+R25	5027007	Chorea	SNOMEDCT_US
+R25	260912008	Abnormal involuntary movement	SNOMEDCT_US
+R25	158189006	[D]Abnormal involuntary movements	SNOMEDCT_US
+R25	206802003	[D]Abnormal involuntary movements	SNOMEDCT_US
+R25	158184001	[D]Abnormal involuntary movements	SNOMEDCT_US
+R25	206810002	[D]Abnormal involuntary movement NOS	SNOMEDCT_US
+D04	92749008	Carcinoma in situ of skin	SNOMEDCT_US
+D04	189334002	Carcinoma in situ of skin NOS	SNOMEDCT_US
+D04	190181002	[X]Carcinoma in situ of skin, unspecified	SNOMEDCT_US
+M70	203873000	[X]Unspecified soft tissue disorder related to use, overuse and pressure	SNOMEDCT_US
+S80	283041008	Superficial injury of lower leg	SNOMEDCT_US
+S80	211390001	Superficial injury of lower leg NOS	SNOMEDCT_US
+N17	155855008	Acute renal failure	SNOMEDCT_US
+N17	14669001	Acute renal failure syndrome	SNOMEDCT_US
+N17	197653006	Acute renal failure NOS	SNOMEDCT_US
+S40	211186008	Superficial injury of shoulder and upper arm	SNOMEDCT_US
+S00	211025006	Superficial injury of head NOS	SNOMEDCT_US
+S00	283025007	Superficial injury of head	SNOMEDCT_US
+E85	154769007	Amyloidosis	SNOMEDCT_US
+E85	17602002	Amyloidosis	SNOMEDCT_US
+E85	190931005	Amyloidosis NOS	SNOMEDCT_US
+J18	195915000	Pneumonia due to unspecified organism	SNOMEDCT_US
+C44	188083002	Malignant neoplasm of skin: [other] or [basal cell carcinoma] or [epithelioma] or [malignant neoplasm of sebaceous gland] or [malignant neoplasm of sweat gland] or [epithelioma basal cell]	SNOMEDCT_US
+C44	269470006	Other malignant neoplasm of skin	SNOMEDCT_US
+G25	155003008	Other extrapyramidal disease and abnormal movement disorders	SNOMEDCT_US
+G25	267580003	Other extrapyramidal disease and abnormal movement disorders	SNOMEDCT_US
+G25	192832005	Extrapyramidal disease: [excluding Parkinson's disease] or [other and abnormal movement disorders]	SNOMEDCT_US
+G25	192864003	Other and unspecified extrapyramidal diseases and abnormal movement disorders	SNOMEDCT_US
+L03	74276003	Cellulitis	SNOMEDCT_US
+L03	191132005	Cellulitis	SNOMEDCT_US
+L03	128045006	Cellulitis	SNOMEDCT_US
+L03	385627004	Cellulitis	SNOMEDCT_US
+L03	156317003	Cellulitis NOS	SNOMEDCT_US
+L03	200693005	Cellulitis NOS	SNOMEDCT_US
+J22	155514003	Acute lower respiratory tract infection	SNOMEDCT_US
+J22	266340001	Acute lower respiratory tract infection	SNOMEDCT_US
+J22	195745009	Respiratory tract infection (& [acute lower] or [lower])	SNOMEDCT_US
+J22	195742007	Acute lower respiratory tract infection	SNOMEDCT_US
+I61	155389003	Cerebral hemorrhage	SNOMEDCT_US
+I61	274100004	Cerebral hemorrhage	SNOMEDCT_US
+I61	266313001	Cerebral haemorrhage NOS	SNOMEDCT_US
+I61	155394003	Cerebral haemorrhage NOS	SNOMEDCT_US
+I61	1508000	Intracerebral hemorrhage	SNOMEDCT_US
+I61	195163003	Intracerebral hemorrhage (& [cerebrovascular accident due to])	SNOMEDCT_US
+I61	195173001	Intracerebral haemorrhage NOS	SNOMEDCT_US
+I61	155391006	Cerebral parenchymal haemorrhage	SNOMEDCT_US
+E10	190322003	Diabetes mellitus: [juvenile type, with no mention of complication] or [insulin dependent]	SNOMEDCT_US
+E10	46635009	Type 1 diabetes mellitus	SNOMEDCT_US
+E10	267469001	Diabetes mellitus: [juvenile] or [insulin dependent]	SNOMEDCT_US
+E10	190362004	Type I diabetes mellitus	SNOMEDCT_US
+E10	154673001	Diabetes mellitus: [juvenile] or [insulin dependent]	SNOMEDCT_US
+C43	269577007	Melanoma: [skin] or [malignant]	SNOMEDCT_US
+C43	154501005	Melanoma: [skin] or [malignant]	SNOMEDCT_US
+C43	93655004	Malignant melanoma of skin	SNOMEDCT_US
+C43	190105009	[X]Malignant melanoma of skin, unspecified	SNOMEDCT_US
+C43	188082007	Malignant melanoma of skin NOS	SNOMEDCT_US
+C43	154506000	Malignant melanoma of skin NOS	SNOMEDCT_US
+V60	219951008	[X]Occupant of heavy transport vehicle injured in collision with pedestrian or animal	SNOMEDCT_US
+B02	186514003	Herpes zoster [organism] or [infection - shingles]	SNOMEDCT_US
+B02	4740000	Herpes zoster	SNOMEDCT_US
+B02	186533008	Herpes zoster NOS	SNOMEDCT_US
+B02	154326002	Herpes zoster infection	SNOMEDCT_US
+G83	192963008	Other paralytic syndromes	SNOMEDCT_US
+G83	192977006	(Other paralytic syndromes NOS) or (specified palsy NEC)	SNOMEDCT_US
+G83	267591005	Other paralytic syndromes NOS	SNOMEDCT_US
+S81	125661005	Open wound of lower leg	SNOMEDCT_US
+I48	81216002	Atrial flutter-fibrillation	SNOMEDCT_US
+I48	195080001	Atrial fibrillation and flutter	SNOMEDCT_US
+I48	195082009	Atrial fibrillation and flutter NOS	SNOMEDCT_US
+I50	155374007	Heart failure	SNOMEDCT_US
+I50	84114007	Heart failure	SNOMEDCT_US
+I50	195117009	Heart: [weak] or [failure NOS]	SNOMEDCT_US
+I50	155377000	Heart failure NOS	SNOMEDCT_US
+I50	266248006	Heart failure NOS	SNOMEDCT_US
+I50	266308000	(Congestive cardiac failure) or (dropsy) or (cardiac insufficiency) or (right heart failure) or (right ventricular failure)	SNOMEDCT_US
+I50	155375008	(Congestive cardiac failure) or (dropsy) or (cardiac insufficiency) or (right heart failure) or (right ventricular failure)	SNOMEDCT_US
+E63	190672009	Other nutritional deficiency	SNOMEDCT_US
+E63	154731002	Other nutritional deficiency	SNOMEDCT_US
+E63	190650007	Other nutritional deficiency	SNOMEDCT_US
+E63	190673004	Other nutritional deficiency NOS	SNOMEDCT_US
+E63	191079008	[X]Other nutritional deficiencies	SNOMEDCT_US
+S46	213489004	[X]Injury of unspecified muscle and tendon at shoulder and upper arm level	SNOMEDCT_US
+I69	155411009	Late effects of cerebrovascular disease	SNOMEDCT_US
+I69	195239002	Late effects of cerebrovascular disease	SNOMEDCT_US
+G40	267698007	(Epilepsy) or (epileptic attack)	SNOMEDCT_US
+G40	84757009	Epilepsy	SNOMEDCT_US
+G40	155045005	Epilepsy NOS	SNOMEDCT_US
+G40	267593008	Epilepsy NOS	SNOMEDCT_US
+G40	193026007	(Epilepsy NOS) or (fit in known epileptic NOS)	SNOMEDCT_US
+G40	128613002	Seizure disorder	SNOMEDCT_US
+G40	271788002	Fit: [Convulsion) &/or (fit and well]	SNOMEDCT_US
+G40	246545002	Generalized onset seizure	SNOMEDCT_US
+G40	155036009	(Epilepsy) or (epileptic attack)	SNOMEDCT_US
+M54	419258005	Back pain	SNOMEDCT_US
+M54	16986008	Back pain	SNOMEDCT_US
+M54	156651006	(Backache NOS) or (back pain [& low])	SNOMEDCT_US
+M54	139146005	Back pain	SNOMEDCT_US
+M54	268083007	(Backache NOS) or (back pain [& low])	SNOMEDCT_US
+M54	399079008	Back pain	SNOMEDCT_US
+M54	139148006	Back pain	SNOMEDCT_US
+M54	161891005	Backache	SNOMEDCT_US
+M54	373644009	Back pain - finding	SNOMEDCT_US
+M54	373634007	Backache - disorder	SNOMEDCT_US
+M54	373589003	Backache - finding	SNOMEDCT_US
+M54	22913005	Dorsalgia	SNOMEDCT_US
+M54	202800008	(Backache unspecified) or (back pain unspecified & [acute])	SNOMEDCT_US
+M54	267984001	Backache, unspecified	SNOMEDCT_US
+M54	161897009	Backache symptom NOS	SNOMEDCT_US
+M54	139154007	Backache symptom NOS	SNOMEDCT_US
+M54	365882001	Backache - finding	SNOMEDCT_US
+M54	161889002	Backache symptom	SNOMEDCT_US
+K76	197337001	Other liver disorders	SNOMEDCT_US
+V53	219878009	[X]Occupant of pick-up truck or van injured in collision with car, pick-up truck or van	SNOMEDCT_US
+E88	267510005	(Other disorders of metabolism) or (eosinophilic granulomatosis) or (Hand-Schuller-Christian syndrome)	SNOMEDCT_US
+E88	154773005	(Other disorders of metabolism) or (eosinophilic granulomatosis) or (Hand-Schuller-Christian syndrome)	SNOMEDCT_US
+E88	154766000	Other disorders of metabolism	SNOMEDCT_US
+E88	154778001	Other disorders of metabolism	SNOMEDCT_US
+E88	190904007	Other disorders of metabolism	SNOMEDCT_US
+A40	29577008	Streptococcal septicemia	SNOMEDCT_US
+A40	187330001	[X]Streptococcal septicaemia, unspecified	SNOMEDCT_US
+J80	155627006	(Respiratory disease NOS) or (adult respiratory distress syndrome) or (pneumomediastinum) or (tracheomalacia)	SNOMEDCT_US
+J80	266411000	(Respiratory disease NOS) or (adult respiratory distress syndrome) or (pneumomediastinum) or (tracheomalacia)	SNOMEDCT_US
+J80	196150004	(Trauma and post-operative pulmonary insufficiency) or (adult respiratory distress syndrome)	SNOMEDCT_US
+J80	196154008	Adult respiratory distress syndrome	SNOMEDCT_US
+J80	67782005	Acute respiratory distress syndrome	SNOMEDCT_US
+J80	206281003	Respiratory distress syndrome (& [hyaline membrane disease])	SNOMEDCT_US
+T82	213732002	[X]Unspecified complication of cardiac and vascular prosthetic device, implant and graft	SNOMEDCT_US
+K80	266541001	Gall stones (& [calculus - gall bladder])	SNOMEDCT_US
+K80	197376000	Cholelithiasis (& calculus: [bile duct] or [cystic duct] or [gallbladder])	SNOMEDCT_US
+K80	155823008	Gall stones (& [calculus - gall bladder])	SNOMEDCT_US
+K80	266474003	Biliary calculus	SNOMEDCT_US
+K80	44900007	Biliary calculus	SNOMEDCT_US
+K80	197406002	Cholelithiasis NOS	SNOMEDCT_US
+K80	197403005	Cholelithiasis NOS	SNOMEDCT_US
+S12	207982008	Fracture of cervical spine	SNOMEDCT_US
+S12	125606003	Fracture of cervical spine	SNOMEDCT_US
+K62	197223008	Other rectal and anal disorders	SNOMEDCT_US
+K62	197236008	(Leukoplakia of anus) or (rectal and anal disorders: [other, NOS] or [unspecified])	SNOMEDCT_US
+K62	266465000	Other rectal and anal disorders NOS	SNOMEDCT_US
+I38	89736004	Valvular endocarditis	SNOMEDCT_US
+I38	195007001	Endocarditis, valve unspecified	SNOMEDCT_US
+I38	195014004	Endocarditis, valve unspecified, NOS	SNOMEDCT_US
+K92	197569009	[X]Other diseases of the digestive system	SNOMEDCT_US
+Z45	316792009	[X]Adjustment and management of unspecified implanted device	SNOMEDCT_US
+F30	192354000	[X] Mania: [episode, unspecified] or [NOS]	SNOMEDCT_US
+F30	268700001	[X]Manic episode, unspecified	SNOMEDCT_US
+F30	192349009	[X] Manic episode (& [bipolar disorder, single manic episode])	SNOMEDCT_US
+L57	200861004	Skin changes due to chronic exposure to non-ionizing radiation	SNOMEDCT_US
+H44	371409005	Disorder of eye region	SNOMEDCT_US
+H44	371405004	Disorder of eye	SNOMEDCT_US
+H44	79517001	Disease of eye	SNOMEDCT_US
+H44	111509007	Disorder of globe	SNOMEDCT_US
+H44	155198005	Disorder of globe	SNOMEDCT_US
+H44	193266000	Disorder of globe	SNOMEDCT_US
+H44	193316008	Disorders of globe NOS	SNOMEDCT_US
+H44	194183009	Unspecified disorder of eye	SNOMEDCT_US
+H44	193265001	Ophthalmological disorder	SNOMEDCT_US
+H44	264555006	Ophthalmological disorder	SNOMEDCT_US
+H44	155101007	Ophthalmological disorder	SNOMEDCT_US
+H44	366261005	Ophthalmological disorder	SNOMEDCT_US
+Z85	315732004	[V]Personal history of malignant neoplasm	SNOMEDCT_US
+Z85	315742002	[V]Personal history of unspecified malignant neoplasm	SNOMEDCT_US
+R06	34808003	Breathing problem	SNOMEDCT_US
+R06	386813002	Abnormal breathing	SNOMEDCT_US
+R00	43726000	Abnormal cardiac rate	SNOMEDCT_US
+R00	361136003	Abnormal heart beat	SNOMEDCT_US
+R00	361135004	Abnormal cardiac rate	SNOMEDCT_US
+K29	42912005	Gastroduodenitis	SNOMEDCT_US
+K29	196731005	Gastroduodenitis	SNOMEDCT_US
+K29	155711008	Gastritis &/or duodenitis	SNOMEDCT_US
+K29	266503008	Gastritis &/or duodenitis	SNOMEDCT_US
+K29	196745004	Gastritis and duodenitis NOS	SNOMEDCT_US
+K29	155717007	Gastritis and duodenitis NOS	SNOMEDCT_US
+K29	196744000	Gastroduodenitis unspecified	SNOMEDCT_US
+Z86	315751005	[V]Personal history of other certain diseases	SNOMEDCT_US
+K52	197034002	(Chronic diarrhoea) or (other non-infective gastroenteritis and colitis NOS)	SNOMEDCT_US
+K52	266453004	Other non-infective gastroenteritis and colitis NOS	SNOMEDCT_US
+G50	64309007	Trigeminal nerve disorder	SNOMEDCT_US
+G50	155065003	Disorder of trigeminal nerve	SNOMEDCT_US
+G50	155068001	Trigeminal nerve disorder NOS	SNOMEDCT_US
+G50	193092004	Trigeminal nerve disorder NOS	SNOMEDCT_US
+S62	208388003	Fracture at wrist and/or hand level	SNOMEDCT_US
+L82	201096007	Senile hyperkeratosis	SNOMEDCT_US
+L82	398838000	Senile hyperkeratosis	SNOMEDCT_US
+L82	25499005	Seborrheic keratosis	SNOMEDCT_US
+L82	394726009	Seborrheic keratosis	SNOMEDCT_US
+L82	394727000	Melanoacanthoma	SNOMEDCT_US
+L82	201107006	(Actinic keratosis) or (seborrhoeic wart) or (other dermatoses NOS)	SNOMEDCT_US
+L82	267860005	(Dermatoses NOS) or (solar keratosis) or (seborrhoeic wart)	SNOMEDCT_US
+L82	156400006	(Dermatoses NOS) or (solar keratosis) or (seborrhoeic wart)	SNOMEDCT_US
+L82	50563003	Seborrheic dermatitis	SNOMEDCT_US
+I60	155390007	Subarachnoid hemorrhage	SNOMEDCT_US
+I60	195153006	Subarachnoid hemorrhage	SNOMEDCT_US
+I60	21454007	Subarachnoid hemorrhage	SNOMEDCT_US
+I60	195162008	Subarachnoid haemorrhage NOS	SNOMEDCT_US
+K43	266442005	Ventral hernia	SNOMEDCT_US
+K43	6515007	Ventral hernia	SNOMEDCT_US
+K43	196876001	Hernia: [ventral] or [epigastric] or [incisional]	SNOMEDCT_US
+K43	414474001	Ventral incisional hernia	SNOMEDCT_US
+K43	414396006	Hernia of anterior abdominal wall	SNOMEDCT_US
+K43	196897000	Ventral hernia NOS	SNOMEDCT_US
+K43	196898005	Unspecified ventral hernia NOS	SNOMEDCT_US
+K43	359801000	Hernia of abdominal cavity	SNOMEDCT_US
+H81	20425006	Labyrinthine disorder	SNOMEDCT_US
+H81	267761002	Vestibular syndromes &/or disorders (& [labyrinthine] or [vertigo])	SNOMEDCT_US
+H81	194379003	[X]Disorder of vestibular function, unspecified	SNOMEDCT_US
+H81	194695008	[X]Disorder of vestibular function, unspecified	SNOMEDCT_US
+F40	52039009	Phobia	SNOMEDCT_US
+F40	154884005	Phobic anxiety disorder	SNOMEDCT_US
+F40	386810004	Phobic disorder	SNOMEDCT_US
+F40	386808001	Phobia	SNOMEDCT_US
+F40	191720001	Phobic disorders (& [social] or [phobic anxiety])	SNOMEDCT_US
+F40	191734001	(Weight fixation) or (phobic disorder NOS)	SNOMEDCT_US
+F40	268630000	Phobic disorder NOS	SNOMEDCT_US
+F40	65673007	Anxiety disorder	SNOMEDCT_US
+F40	192398000	[X]Phobic anxiety disorder, unspecified	SNOMEDCT_US
+F40	192393009	[X]Phobic anxiety disorders	SNOMEDCT_US
+F40	191721002	Phobia unspecified	SNOMEDCT_US
+H35	193418005	Other retinal disorders &/or retinal hemorrhage	SNOMEDCT_US
+H35	267715002	Other retinal disorders &/or retinopathies	SNOMEDCT_US
+H35	155115009	Other retinal disorders	SNOMEDCT_US
+H35	193348007	Other retinal disorders	SNOMEDCT_US
+H35	193429009	Other retinal disorder NOS	SNOMEDCT_US
+J47	155580000	Bronchiectasis	SNOMEDCT_US
+J47	12295008	Bronchiectasis	SNOMEDCT_US
+J47	195986009	Bronchiectasis NOS	SNOMEDCT_US
+H25	39450006	Senile cataract	SNOMEDCT_US
+H25	193594009	Senile cataract NOS	SNOMEDCT_US
+H25	155127007	Age-related cataract	SNOMEDCT_US
+H25	193582000	Age-related cataract	SNOMEDCT_US
+H25	193583005	Unspecified senile cataract	SNOMEDCT_US
+R91	274533004	Abnormal findings on diagnostic imaging of lung	SNOMEDCT_US
+V64	219991006	[X]Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus	SNOMEDCT_US
+R11	16932000	Nausea and vomiting	SNOMEDCT_US
+R11	158420004	[D]Nausea and vomiting	SNOMEDCT_US
+R11	207110008	[D]Nausea and vomiting	SNOMEDCT_US
+R11	207116002	[D]Nausea and vomiting NOS	SNOMEDCT_US
+R11	158424008	[D]Nausea and vomiting NOS	SNOMEDCT_US
+S52	65966004	Fracture of forearm	SNOMEDCT_US
+S52	208292008	Fracture of radius &/or ulna	SNOMEDCT_US
+S52	213497006	[X]Fracture of forearm, unspecified	SNOMEDCT_US
+D69	191304008	Purpura and other hemorrhagic conditions	SNOMEDCT_US
+D69	154822006	(Purpura/hemorrhagic condition) or (purpura) or (thrombocytopenic purpura)	SNOMEDCT_US
+D69	267564008	(Purpura/hemorrhagic condition) or (purpura) or (thrombocytopenic purpura)	SNOMEDCT_US
+N18	155856009	Renal failure: [chronic] or [end stage]	SNOMEDCT_US
+N18	197654000	Renal failure: [chronic] or [end stage]	SNOMEDCT_US
+N18	90688005	Chronic renal failure	SNOMEDCT_US
+N18	46177005	End-stage renal disease	SNOMEDCT_US
+N18	197755007	End stage renal failure	SNOMEDCT_US
+N18	197655004	End stage renal failure	SNOMEDCT_US
+K04	155637001	(Pulp &/or periapical disease) or (apical tooth disease)	SNOMEDCT_US
+K04	266488004	(Pulp &/or periapical disease) or (apical tooth disease)	SNOMEDCT_US
+K04	196326005	Pulp &/or periapical tissue disease	SNOMEDCT_US
+K04	266417001	Pulp and periapical tissue disease	SNOMEDCT_US
+K04	155640001	Pulp and periapical tissue disease NOS	SNOMEDCT_US
+K04	196353009	Pulp and periapical tissue disease NOS	SNOMEDCT_US
+K35	155732000	Acute appendicitis NOS	SNOMEDCT_US
+K35	196784009	Acute appendicitis NOS	SNOMEDCT_US
+K35	85189001	Acute appendicitis	SNOMEDCT_US
+E66	5476005	Adiposity	SNOMEDCT_US
+E66	154776002	Obesity	SNOMEDCT_US
+E66	190963004	Obesity	SNOMEDCT_US
+E66	414916001	Obesity	SNOMEDCT_US
+E66	414915002	Obese	SNOMEDCT_US
+N93	312983000	Other abnormal uterine and vaginal bleeding	SNOMEDCT_US
+N93	198479005	Other abnormal uterine and vaginal bleeding	SNOMEDCT_US
+W50	220854006	[X]Hit, struck, kicked, twisted, bitten or scratched by another person	SNOMEDCT_US
+K42	266514006	Umbilical hernia (& [simple])	SNOMEDCT_US
+K42	196854005	(Umbilical hernia) or (paraumbilical hernia) or (omphalocele)	SNOMEDCT_US
+K42	155753009	Umbilical hernia (& [simple])	SNOMEDCT_US
+K42	49324006	Umbilical hernia	SNOMEDCT_US
+K42	396347007	Umbilical hernia	SNOMEDCT_US
+K42	196875002	Umbilical hernia NOS	SNOMEDCT_US
+K42	196874003	Unspecified umbilical hernia NOS	SNOMEDCT_US
+K42	196871006	Unspecified umbilical hernia	SNOMEDCT_US
+N23	162140006	Renal colic (& symptom)	SNOMEDCT_US
+N23	7093002	Renal colic	SNOMEDCT_US
+N23	17329003	Ureteric colic	SNOMEDCT_US
+N23	158457005	[D]Renal colic	SNOMEDCT_US
+N23	207155001	[D]Renal colic	SNOMEDCT_US
+N23	207158004	[D]Renal colic NOS	SNOMEDCT_US
+N23	158459008	[D]Renal colic NOS	SNOMEDCT_US
+N23	207156000	[D]Renal colic, unspecified	SNOMEDCT_US
+N23	158458000	[D]Ureteric colic	SNOMEDCT_US
+N23	207157009	[D]Ureteric colic	SNOMEDCT_US
+N23	271844003	Renal colic, unspecified	SNOMEDCT_US
+N23	162142003	Ureteric: [colic (& C/O)] or [pain]	SNOMEDCT_US
+N23	139422005	Ureteric: [colic] or [pain]	SNOMEDCT_US
+N23	267170005	Ureteric: [colic] or [pain]	SNOMEDCT_US
+N23	139420002	Renal colic (& symptom)	SNOMEDCT_US
+N83	198292005	Noninflammatory disorders of the ovary, fallopian tube and broad ligament (& [ovarian cysts])	SNOMEDCT_US
+N83	266591002	Noninflammatory disorders of the ovary, fallopian tube and broad ligament	SNOMEDCT_US
+W03	220376008	[X]Other fall on same level due to collision with, or pushing by, another person	SNOMEDCT_US
+K61	266530003	(Anal/rectal abscess NOS) or (anorectal abscess)	SNOMEDCT_US
+K61	155793007	Anorectal abscess	SNOMEDCT_US
+K61	155796004	(Anal/rectal abscess NOS) or (anorectal abscess)	SNOMEDCT_US
+K61	75236001	Anorectal abscess	SNOMEDCT_US
+K61	197167001	Anorectal abscess NOS	SNOMEDCT_US
+K61	197160004	Anus &/or rectum: [cellulitis] or [abscess]	SNOMEDCT_US
+J03	195665006	Tonsillitis (& acute)	SNOMEDCT_US
+J03	155503001	Acute tonsillitis	SNOMEDCT_US
+J03	17741008	Acute tonsillitis	SNOMEDCT_US
+J03	195678006	Acute tonsillitis NOS	SNOMEDCT_US
+J03	312424000	Infective tonsillitis	SNOMEDCT_US
+H65	275481002	Non-suppurative otitis media	SNOMEDCT_US
+H65	194265008	Non-suppurative otitis media NOS	SNOMEDCT_US
+H65	267753007	Nonsuppurative otitis media (& [ left] or [right])	SNOMEDCT_US
+H65	194260003	Unspecified non-suppurative otitis media	SNOMEDCT_US
+H65	45935001	Nonsuppurative otitis media	SNOMEDCT_US
+H66	267758003	Suppurative otitis media &/or ([left] or [right]) &/or purulent otitis media	SNOMEDCT_US
+H66	39288006	Purulent otitis media	SNOMEDCT_US
+H66	155229002	Purulent otitis media NOS	SNOMEDCT_US
+H66	194285007	Purulent otitis media NOS	SNOMEDCT_US
+H66	194280002	Suppurative and unspecified otitis media	SNOMEDCT_US
+H66	194258000	Otitis media with effusion - purulent	SNOMEDCT_US
+H66	38394007	Chronic purulent otitis media	SNOMEDCT_US
+N84	198484004	[X]Polyp of female genital tract, unspecified	SNOMEDCT_US
+N84	198599002	[X]Polyp of female genital tract, unspecified	SNOMEDCT_US
+T51	67426006	Toxic effect of alcohol	SNOMEDCT_US
+T51	157683008	Alcohol causing toxic effect	SNOMEDCT_US
+T51	212820004	Alcohol causing toxic effect NOS	SNOMEDCT_US
+T51	157686000	Alcohol causing toxic effect NOS	SNOMEDCT_US
