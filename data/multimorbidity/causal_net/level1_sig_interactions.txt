@@ -1,0 +1,119 @@
+snp	trait	gene	eqtl_type	chromq	posq	rsidq	chromt	post	rsidt	corr	dprime
+rs10876432	Bone mineral density (spine)	AAAS	spatial	12	53728368	rs10783573	12	53731890	rs10876432	0.900819	0.942789
+rs10876432	Bone mineral density (spine)	AAAS	spatial	12	53730758	rs11170506	12	53731890	rs10876432	-0.993061	-1.0
+rs10876432	Bone mineral density (spine)	AAAS	spatial	12	53727510	rs138648748	12	53731890	rs10876432	0.928611	0.939375
+rs10876432	Bone mineral density (spine)	AAAS	spatial	12	53727954	rs2016266	12	53731890	rs10876432	0.898723	0.942704
+rs10876432	Bone mineral density (spine)	AAAS	spatial	12	53731983	rs2886129	12	53731890	rs10876432	0.995373	1.0
+rs10876432	Bone mineral density (spine)	AAAS	spatial	12	53735493	rs4758956	12	53731890	rs10876432	-0.993061	-1.0
+rs10876432	Bone mineral density (spine)	AAAS	spatial	12	53735735	rs6580946	12	53731890	rs10876432	1.0	1.0
+rs10876432	Bone mineral density (spine)	AAAS	spatial	12	53727544	rs930900	12	53731890	rs10876432	0.930833	0.939463
+rs2016266	Bone mineral density (spine)	AAAS	spatial	12	53728368	rs10783573	12	53727954	rs2016266	0.997763	1.0
+rs2016266	Bone mineral density (spine)	AAAS	spatial	12	53727510	rs138648748	12	53727954	rs2016266	0.959864	0.9953
+rs2016266	Bone mineral density (spine)	AAAS	spatial			rs2016266			rs2016266	1.0	1.0
+rs2016266	Bone mineral density (spine)	AAAS	spatial	12	53727544	rs930900	12	53727954	rs2016266	0.962184	1.0
+rs2016266	Lumbar spine bone mineral density	AAAS	spatial	12	53728368	rs10783573	12	53727954	rs2016266	0.997763	1.0
+rs2016266	Lumbar spine bone mineral density	AAAS	spatial	12	53727510	rs138648748	12	53727954	rs2016266	0.959864	0.9953
+rs2016266	Lumbar spine bone mineral density	AAAS	spatial			rs2016266			rs2016266	1.0	1.0
+rs2016266	Lumbar spine bone mineral density	AAAS	spatial	12	53727544	rs930900	12	53727954	rs2016266	0.962184	1.0
+rs2272313	Bone mineral density (spine)	AAAS	spatial	12	53669820	rs10747662	12	53671548	rs2272313	0.919304	0.995223
+rs2272313	Bone mineral density (spine)	AAAS	spatial	12	53670544	rs1318648	12	53671548	rs2272313	0.997851	1.0
+rs2272313	Bone mineral density (spine)	AAAS	spatial	12	53672633	rs2045473	12	53671548	rs2272313	0.993552	1.0
+rs2272313	Bone mineral density (spine)	AAAS	spatial			rs2272313			rs2272313	1.0	1.0
+rs2272313	Bone mineral density (spine)	AAAS	spatial	12	53666712	rs4759086	12	53671548	rs2272313	0.910274	0.981006
+rs2272313	Bone mineral density (spine)	AAAS	spatial	12	53673424	rs72096698	12	53671548	rs2272313	-0.919304	-0.995223
+rs2272313	Bone mineral density (spine)	AAAS	spatial	12	53673423	rs77269929	12	53671548	rs2272313	-0.919304	-0.995223
+rs2272313	Lumbar spine bone mineral density	AAAS	spatial	12	53669820	rs10747662	12	53671548	rs2272313	0.919304	0.995223
+rs2272313	Lumbar spine bone mineral density	AAAS	spatial	12	53670544	rs1318648	12	53671548	rs2272313	0.997851	1.0
+rs2272313	Lumbar spine bone mineral density	AAAS	spatial	12	53672633	rs2045473	12	53671548	rs2272313	0.993552	1.0
+rs2272313	Lumbar spine bone mineral density	AAAS	spatial			rs2272313			rs2272313	1.0	1.0
+rs2272313	Lumbar spine bone mineral density	AAAS	spatial	12	53666712	rs4759086	12	53671548	rs2272313	0.910274	0.981006
+rs2272313	Lumbar spine bone mineral density	AAAS	spatial	12	53673424	rs72096698	12	53671548	rs2272313	-0.919304	-0.995223
+rs2272313	Lumbar spine bone mineral density	AAAS	spatial	12	53673423	rs77269929	12	53671548	rs2272313	-0.919304	-0.995223
+rs10747666	Bone mineral density (spine)	AAAS	spatial			rs10747666			rs10747666	1.0	1.0
+rs10747666	Bone mineral density (spine)	AAAS	spatial	12	53714867	rs4759021	12	53716835	rs10747666	-0.934436	-1.0
+rs910873	Melanoma	CHMP4B	spatial			rs910873			rs910873	1.0	1.0
+rs910873	Non-melanoma skin cancer	CHMP4B	spatial			rs910873			rs910873	1.0	1.0
+rs139122788	Melanoma	ATM	spatial	11	108334320	rs10890845	11	108336635	rs139122788	0.972663	0.992969
+rs139122788	Melanoma	ATM	spatial	11	108333535	rs17108024	11	108336635	rs139122788	1.0	1.0
+rs17401449	Melanoma	CHMP4B	spatial			rs17401449			rs17401449	1.0	1.0
+rs17401449	Low tan response	CHMP4B	spatial			rs17401449			rs17401449	1.0	1.0
+rs17401449	Non-melanoma skin cancer	CHMP4B	spatial			rs17401449			rs17401449	1.0	1.0
+rs3755955	Lumbar spine bone mineral density	GAK	spatial	4	996767	rs115134980	4	994413	rs3755955	0.989413	1.0
+rs3755955	Lumbar spine bone mineral density	GAK	spatial	4	996559	rs115790973	4	994413	rs3755955	0.992913	1.0
+rs3755955	Lumbar spine bone mineral density	GAK	spatial	4	996887	rs115929690	4	994413	rs3755955	0.992913	1.0
+rs3755955	Lumbar spine bone mineral density	GAK	spatial	4	997484	rs2305488	4	994413	rs3755955	0.979083	1.0
+rs3755955	Lumbar spine bone mineral density	GAK	spatial	4	995106	rs3733341	4	994413	rs3755955	0.992913	1.0
+rs3755955	Lumbar spine bone mineral density	GAK	spatial	4	994981	rs3733342	4	994413	rs3755955	0.992913	1.0
+rs3755955	Lumbar spine bone mineral density	GAK	spatial			rs3755955			rs3755955	1.0	1.0
+rs3755955	Lumbar spine bone mineral density	GAK	spatial	4	994010	rs56079856	4	994413	rs3755955	1.0	1.0
+rs3755955	Lumbar spine bone mineral density	GAK	spatial	4	995996	rs6811373	4	994413	rs3755955	0.989413	1.0
+rs3755955	Lumbar spine bone mineral density	GAK	spatial	4	995304	rs6815946	4	994413	rs3755955	0.989413	1.0
+rs3755955	Lumbar spine bone mineral density	GAK	spatial	4	995421	rs6829789	4	994413	rs3755955	0.992913	1.0
+rs3755955	Lumbar spine bone mineral density	GAK	spatial	4	995918	rs6830825	4	994413	rs3755955	0.992913	1.0
+rs3755955	Lumbar spine bone mineral density	GAK	spatial	4	996011	rs6831021	4	994413	rs3755955	0.992913	1.0
+rs3755955	Lumbar spine bone mineral density	GAK	spatial	4	996164	rs6831280	4	994413	rs3755955	0.982099	0.985623
+rs3755955	Lumbar spine bone mineral density	GAK	spatial	4	996247	rs6836258	4	994413	rs3755955	0.992913	1.0
+rs3755955	Lumbar spine bone mineral density	GAK	spatial	4	995458	rs6848974	4	994413	rs3755955	0.992913	1.0
+rs3755955	Lumbar spine bone mineral density	GAK	spatial	4	996689	rs73066479	4	994413	rs3755955	0.992913	1.0
+rs2253736	Low density lipoprotein cholesterol levels	LRRK2	spatial			rs2253736			rs2253736	1.0	1.0
+rs4651135	Low density lipoprotein cholesterol levels	NMNAT2	spatial	1	182970523	rs4651134	1	182970546	rs4651135	0.998005	1.0
+rs11175540	Low density lipoprotein cholesterol levels	LRRK2	spatial	12	40581330	rs12369765	12	40586294	rs11175540	1.0	1.0
+rs11175540	Low density lipoprotein cholesterol levels	LRRK2	spatial	12	40587929	rs1491924	12	40586294	rs11175540	1.0	1.0
+rs523118	Low density lipoprotein cholesterol levels	MSL2	spatial	3	135961030	rs534944	3	135965887	rs523118	0.986092	0.994376
+rs2296288	Low density lipoprotein cholesterol levels	NMNAT2	spatial	1	183072146	rs10911242	1	183072589	rs2296288	0.995967	1.0
+rs10877955	Low density lipoprotein cholesterol levels	LRRK2	spatial	12	40424976	rs10784340	12	40421116	rs10877955	1.0	1.0
+rs10877955	Low density lipoprotein cholesterol levels	LRRK2	spatial	12	40425154	rs28370683	12	40421116	rs10877955	1.0	1.0
+rs11175518	Low density lipoprotein cholesterol levels	LRRK2	spatial			rs11175518			rs11175518	1.0	1.0
+rs11175518	Low density lipoprotein cholesterol levels	LRRK2	spatial	12	40581330	rs12369765	12	40580317	rs11175518	1.0	1.0
+rs6680227	Low density lipoprotein cholesterol levels	STXBP3	spatial	1	109795025	rs413380	1	109798913	rs6680227	-0.939556	-0.968605
+rs6680227	Low density lipoprotein cholesterol levels	STXBP3	spatial	1	109794251	rs454107	1	109798913	rs6680227	-0.939556	-0.968605
+rs7525917	Low density lipoprotein cholesterol levels	NMNAT2	spatial	1	183062947	rs10911240	1	183065405	rs7525917	0.997982	1.0
+rs7525917	Low density lipoprotein cholesterol levels	NMNAT2	spatial	1	183065182	rs4491025	1	183065405	rs7525917	0.997982	1.0
+rs7525917	Low density lipoprotein cholesterol levels	NMNAT2	spatial	1	183063526	rs7542277	1	183065405	rs7525917	0.962495	1.0
+rs7525917	Low density lipoprotein cholesterol levels	NMNAT2	spatial	1	183063737	rs7542640	1	183065405	rs7525917	0.997982	1.0
+rs78382342	Low tan response	CHMP4B	spatial	20	32358742	rs111930714	20	32360110	rs78382342	1.0	1.0
+rs78382342	Low tan response	CHMP4B	spatial			rs78382342			rs78382342	1.0	1.0
+rs4911466	Low tan response	CHMP4B	spatial			rs4911466			rs4911466	1.0	1.0
+rs4911466	Non-melanoma skin cancer	CHMP4B	spatial			rs4911466			rs4911466	1.0	1.0
+rs111930714	Non-melanoma skin cancer	CHMP4B	spatial			rs111930714			rs111930714	1.0	1.0
+rs111930714	Non-melanoma skin cancer	CHMP4B	spatial	20	32360110	rs78382342	20	32358742	rs111930714	1.0	1.0
+rs56396408	Total body bone mineral density (age 45-60)	GAK	spatial	4	1009916	rs55639339	4	1008385	rs56396408	1.0	1.0
+rs56396408	Total body bone mineral density (age 45-60)	GAK	spatial			rs56396408			rs56396408	1.0	1.0
+rs56396408	Total body bone mineral density (age 45-60)	GAK	spatial	4	1008971	rs74569579	4	1008385	rs56396408	0.973993	1.0
+rs56396408	Total body bone mineral density (age 45-60)	GAK	spatial	4	1006986	rs76051363	4	1008385	rs56396408	1.0	1.0
+rs56396408	Total body bone mineral density (age 45-60)	GAK	spatial	4	1004863	rs78520297	4	1008385	rs56396408	0.992669	1.0
+rs56396408	Total body bone mineral density (age 45-60)	GAK	spatial	4	1007234	rs79574529	4	1008385	rs56396408	1.0	1.0
+rs56396408	Total body bone mineral density (age 45-60)	GAK	spatial	4	1004862	rs79664023	4	1008385	rs56396408	0.992669	1.0
+rs7398996	Total body bone mineral density (age 45-60)	AAAS	spatial	12	53657466	rs10783562	12	53659447	rs7398996	0.979907	0.995436
+rs7398996	Total body bone mineral density (age 45-60)	AAAS	spatial	12	53661924	rs1976938	12	53659447	rs7398996	1.0	1.0
+rs7398996	Total body bone mineral density (age 45-60)	AAAS	spatial	12	53658600	rs201075429	12	53659447	rs7398996	0.991035	1.0
+rs7398996	Total body bone mineral density (age 45-60)	AAAS	spatial	12	53664014	rs3741663	12	53659447	rs7398996	0.921835	1.0
+rs7398996	Total body bone mineral density (age 45-60)	AAAS	spatial	12	53662734	rs4758965	12	53659447	rs7398996	0.958577	1.0
+rs7398996	Total body bone mineral density (age 45-60)	AAAS	spatial	12	53658514	rs6580939	12	53659447	rs7398996	1.0	1.0
+rs7398996	Total body bone mineral density (age 45-60)	AAAS	spatial	12	53662198	rs6580941	12	53659447	rs7398996	1.0	1.0
+rs7398996	Total body bone mineral density (age 45-60)	AAAS	spatial	12	53662623	rs6580942	12	53659447	rs7398996	1.0	1.0
+rs7398996	Total body bone mineral density (age 45-60)	AAAS	spatial	12	53654955	rs7308162	12	53659447	rs7398996	0.977715	0.995429
+rs7398996	Total body bone mineral density (age 45-60)	AAAS	spatial	12	53658720	rs7311217	12	53659447	rs7398996	1.0	1.0
+rs7398996	Total body bone mineral density (age 45-60)	AAAS	spatial	12	53660284	rs7398228	12	53659447	rs7398996	1.0	1.0
+rs7398996	Total body bone mineral density (age 45-60)	AAAS	spatial			rs7398996			rs7398996	1.0	1.0
+rs7398996	Total body bone mineral density (age 45-60)	AAAS	spatial	12	53659535	rs7399003	12	53659447	rs7398996	0.927803	1.0
+rs13101828	Alpha-L-iduronidase levels (IDUA.3169.70.2)	GAK	spatial			rs13101828			rs13101828	1.0	1.0
+rs13101828	Alpha-L-iduronidase levels (IDUA.3169.70.2)	GAK	spatial	4	961372	rs1377586	4	965719	rs13101828	0.967878	0.979634
+rs4690203	Alpha-L-iduronidase levels (IDUA.3169.70.2)	GAK	spatial			rs4690203			rs4690203	1.0	1.0
+rs56079856	Alpha-L-iduronidase levels (IDUA.3169.70.2)	GAK	spatial	4	996767	rs115134980	4	994010	rs56079856	0.989413	1.0
+rs56079856	Alpha-L-iduronidase levels (IDUA.3169.70.2)	GAK	spatial	4	996559	rs115790973	4	994010	rs56079856	0.992913	1.0
+rs56079856	Alpha-L-iduronidase levels (IDUA.3169.70.2)	GAK	spatial	4	996887	rs115929690	4	994010	rs56079856	0.992913	1.0
+rs56079856	Alpha-L-iduronidase levels (IDUA.3169.70.2)	GAK	spatial	4	997484	rs2305488	4	994010	rs56079856	0.979083	1.0
+rs56079856	Alpha-L-iduronidase levels (IDUA.3169.70.2)	GAK	spatial	4	995106	rs3733341	4	994010	rs56079856	0.992913	1.0
+rs56079856	Alpha-L-iduronidase levels (IDUA.3169.70.2)	GAK	spatial	4	994981	rs3733342	4	994010	rs56079856	0.992913	1.0
+rs56079856	Alpha-L-iduronidase levels (IDUA.3169.70.2)	GAK	spatial	4	994413	rs3755955	4	994010	rs56079856	1.0	1.0
+rs56079856	Alpha-L-iduronidase levels (IDUA.3169.70.2)	GAK	spatial			rs56079856			rs56079856	1.0	1.0
+rs56079856	Alpha-L-iduronidase levels (IDUA.3169.70.2)	GAK	spatial	4	995996	rs6811373	4	994010	rs56079856	0.989413	1.0
+rs56079856	Alpha-L-iduronidase levels (IDUA.3169.70.2)	GAK	spatial	4	995304	rs6815946	4	994010	rs56079856	0.989413	1.0
+rs56079856	Alpha-L-iduronidase levels (IDUA.3169.70.2)	GAK	spatial	4	995421	rs6829789	4	994010	rs56079856	0.992913	1.0
+rs56079856	Alpha-L-iduronidase levels (IDUA.3169.70.2)	GAK	spatial	4	995918	rs6830825	4	994010	rs56079856	0.992913	1.0
+rs56079856	Alpha-L-iduronidase levels (IDUA.3169.70.2)	GAK	spatial	4	996011	rs6831021	4	994010	rs56079856	0.992913	1.0
+rs56079856	Alpha-L-iduronidase levels (IDUA.3169.70.2)	GAK	spatial	4	996164	rs6831280	4	994010	rs56079856	0.982099	0.985623
+rs56079856	Alpha-L-iduronidase levels (IDUA.3169.70.2)	GAK	spatial	4	996247	rs6836258	4	994010	rs56079856	0.992913	1.0
+rs56079856	Alpha-L-iduronidase levels (IDUA.3169.70.2)	GAK	spatial	4	995458	rs6848974	4	994010	rs56079856	0.992913	1.0
+rs56079856	Alpha-L-iduronidase levels (IDUA.3169.70.2)	GAK	spatial	4	996689	rs73066479	4	994010	rs56079856	0.992913	1.0
